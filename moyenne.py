@@ -1,0 +1,6 @@
+a = input ("Veuillez saisir un nombre \n")
+b = input ("Veuillez saisir un deuxieme nombre \n")
+c = input ("Veuillez saisir un troisème nombre \n")
+d = input ("Veuillez saisir un quatrième nombre \n")
+e = input ("Veuillez saisir un cinquième nombre \n")
+print("La moyenne des 5 nombres choisis est : " + str((int (a)+int(b)+int (c)+int (d)+int (e))/5))
